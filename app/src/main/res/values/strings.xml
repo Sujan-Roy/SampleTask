@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleTask</string>
+    <string name="app_nae">OnCreate</string>
+    <string name="ap_nae">OnStart</string>
+    <string name="ap_ne">OnResume</string>
+    <string name="ap_name">Go To Second</string>
+    <string name="ap_ame">Go To First</string>
+    <string name="ap_ae">Main</string>
+    <string name="ap_naeame">Go To First</string>
+</resources>
